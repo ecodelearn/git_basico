@@ -40,6 +40,10 @@ ssh -T git@github.com
 
 fazer o login com linha de comando seguindo as dicas
 
+instalar o gh
+
+curl -sS https://webi.sh/gh | sh #usando linux ou wsl
+
 gh auth login
 
 escolha o metodo de login
