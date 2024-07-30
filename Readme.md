@@ -1,7 +1,5 @@
 Projeto de como usar o Git
 
-ESSE É UM NOVO COMENTÁRIO
-
 git init --global init.defaultBranch master
 
 git init
